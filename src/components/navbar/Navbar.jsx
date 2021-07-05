@@ -23,7 +23,7 @@ const Navbar = () => {
         </div>
         <div className="right">
           <Search className="icon"></Search>
-          <span>KID</span>
+          <span>KIDS</span>
           <Notifications className="icon"></Notifications>
           <img src="/images/netflix-avatar.png" alt="" />
           <div className="profile">
