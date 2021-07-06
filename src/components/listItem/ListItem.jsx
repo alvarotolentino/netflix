@@ -10,7 +10,7 @@ import './listItem.scss';
 export default function ListItem({ index }) {
   const [isHovered, setIsHovered] = useState(false);
   const trailer =
-    'https://vod-progressive.akamaized.net/exp=1625528041~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3890%2F20%2F519454514%2F2420690851.mp4~hmac=4da5347f07da3746add0bc3d94442eee7fa2f411f6ec55aa13805bdaab7d8ed6/vimeo-prod-skyfire-std-us/01/3890/20/519454514/2420690851.mp4';
+    'https://vod-progressive.akamaized.net/exp=1625616584~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3890%2F20%2F519454514%2F2420690854.mp4~hmac=f8014d72736aec1349c407855db2385623503e21c61db9938d64905d8fdb5af9/vimeo-prod-skyfire-std-us/01/3890/20/519454514/2420690854.mp4';
   return (
     <div
       className='listItem'
